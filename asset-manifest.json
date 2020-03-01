@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/battle-sea/static/css/main.710b67a3.chunk.css",
+    "main.js": "/battle-sea/static/js/main.4a05dadb.chunk.js",
+    "main.js.map": "/battle-sea/static/js/main.4a05dadb.chunk.js.map",
+    "runtime-main.js": "/battle-sea/static/js/runtime-main.d708b9eb.js",
+    "runtime-main.js.map": "/battle-sea/static/js/runtime-main.d708b9eb.js.map",
+    "static/js/2.1111c284.chunk.js": "/battle-sea/static/js/2.1111c284.chunk.js",
+    "static/js/2.1111c284.chunk.js.map": "/battle-sea/static/js/2.1111c284.chunk.js.map",
+    "index.html": "/battle-sea/index.html",
+    "precache-manifest.6a8b5297501ebdd2a148f5663f5f2615.js": "/battle-sea/precache-manifest.6a8b5297501ebdd2a148f5663f5f2615.js",
+    "service-worker.js": "/battle-sea/service-worker.js",
+    "static/css/main.710b67a3.chunk.css.map": "/battle-sea/static/css/main.710b67a3.chunk.css.map",
+    "static/js/2.1111c284.chunk.js.LICENSE": "/battle-sea/static/js/2.1111c284.chunk.js.LICENSE",
+    "static/media/android.png": "/battle-sea/static/media/android.5c54cb57.png",
+    "static/media/Header.module.css": "/battle-sea/static/media/battle-31.12da7eb7.jpg",
+    "static/media/cubok.png": "/battle-sea/static/media/cubok.baadff82.png",
+    "static/media/game-img.jpg": "/battle-sea/static/media/game-img.f10c87e4.jpg",
+    "static/media/login-img.png": "/battle-sea/static/media/login-img.341db0a6.png",
+    "static/media/nav-btn2.jpg": "/battle-sea/static/media/nav-btn2.8fd3a45d.jpg",
+    "static/media/navbtn-2.jpg": "/battle-sea/static/media/navbtn-2.c8d40b21.jpg",
+    "static/media/placein.png": "/battle-sea/static/media/placein.83789f0a.png",
+    "static/media/reset.png": "/battle-sea/static/media/reset.190f789d.png",
+    "static/media/rotate.png": "/battle-sea/static/media/rotate.234d9f2e.png",
+    "static/media/sea-1.jpg": "/battle-sea/static/media/sea-1.5cb3f243.jpg",
+    "static/media/slide1.jpg": "/battle-sea/static/media/slide1.64b72cb6.jpg",
+    "static/media/slide2.jpg": "/battle-sea/static/media/slide2.1d00bb05.jpg",
+    "static/media/slide3.jpg": "/battle-sea/static/media/slide3.5d94e4b9.jpg",
+    "static/media/stop-1.png": "/battle-sea/static/media/stop-1.621b59ce.png",
+    "static/media/target.png": "/battle-sea/static/media/target.44263b02.png",
+    "static/media/user-male.png": "/battle-sea/static/media/user-male.7cc9bd54.png",
+    "static/media/winners-img.png": "/battle-sea/static/media/winners-img.d0d43991.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d708b9eb.js",
+    "static/js/2.1111c284.chunk.js",
+    "static/css/main.710b67a3.chunk.css",
+    "static/js/main.4a05dadb.chunk.js"
+  ]
+}
