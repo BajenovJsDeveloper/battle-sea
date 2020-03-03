@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/battle-sea/static/css/main.710b67a3.chunk.css",
-    "main.js": "/battle-sea/static/js/main.4a05dadb.chunk.js",
-    "main.js.map": "/battle-sea/static/js/main.4a05dadb.chunk.js.map",
+    "main.js": "/battle-sea/static/js/main.6e0238e7.chunk.js",
+    "main.js.map": "/battle-sea/static/js/main.6e0238e7.chunk.js.map",
     "runtime-main.js": "/battle-sea/static/js/runtime-main.d708b9eb.js",
     "runtime-main.js.map": "/battle-sea/static/js/runtime-main.d708b9eb.js.map",
     "static/js/2.1111c284.chunk.js": "/battle-sea/static/js/2.1111c284.chunk.js",
     "static/js/2.1111c284.chunk.js.map": "/battle-sea/static/js/2.1111c284.chunk.js.map",
     "index.html": "/battle-sea/index.html",
-    "precache-manifest.6a8b5297501ebdd2a148f5663f5f2615.js": "/battle-sea/precache-manifest.6a8b5297501ebdd2a148f5663f5f2615.js",
+    "precache-manifest.f635e977adc225b25afeef2960ba093a.js": "/battle-sea/precache-manifest.f635e977adc225b25afeef2960ba093a.js",
     "service-worker.js": "/battle-sea/service-worker.js",
     "static/css/main.710b67a3.chunk.css.map": "/battle-sea/static/css/main.710b67a3.chunk.css.map",
     "static/js/2.1111c284.chunk.js.LICENSE": "/battle-sea/static/js/2.1111c284.chunk.js.LICENSE",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.d708b9eb.js",
     "static/js/2.1111c284.chunk.js",
     "static/css/main.710b67a3.chunk.css",
-    "static/js/main.4a05dadb.chunk.js"
+    "static/js/main.6e0238e7.chunk.js"
   ]
 }

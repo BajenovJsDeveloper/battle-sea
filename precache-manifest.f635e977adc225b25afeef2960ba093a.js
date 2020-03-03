@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "666ffd362f26eaf292adda210341ac55",
+    "revision": "201bb3e6ccc6f64ab68d07abb67737f6",
     "url": "/battle-sea/index.html"
   },
   {
-    "revision": "a8ad8d588d3043c5bb89",
+    "revision": "a57e5bb7507727ddc19a",
     "url": "/battle-sea/static/css/main.710b67a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/battle-sea/static/js/2.1111c284.chunk.js.LICENSE"
   },
   {
-    "revision": "a8ad8d588d3043c5bb89",
-    "url": "/battle-sea/static/js/main.4a05dadb.chunk.js"
+    "revision": "a57e5bb7507727ddc19a",
+    "url": "/battle-sea/static/js/main.6e0238e7.chunk.js"
   },
   {
     "revision": "c6f91dcbbc0d2926aa87",
